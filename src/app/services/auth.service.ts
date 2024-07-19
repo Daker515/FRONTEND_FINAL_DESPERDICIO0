@@ -7,7 +7,7 @@ import { Observable, map, tap, catchError, throwError } from 'rxjs';
   providedIn: 'root',
 })
 export class AuthService {
-  private baseUrl = 'https://upbeat-communication-production.up.railway.app/api/auth';
+  private baseUrl = 'https://dynamic-luck-production.up.railway.app/api/auth';
 
   authChanged = new EventEmitter<Boolean>();
 

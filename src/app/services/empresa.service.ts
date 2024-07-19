@@ -3,7 +3,7 @@ import { Injectable } from '@angular/core';
 import { Empresa } from '../models/empresa';
 import { Observable } from 'rxjs';
 
-const BASIC_URL = 'https://upbeat-communication-production.up.railway.app';
+const BASIC_URL = 'https://dynamic-luck-production.up.railway.app';
 
 @Injectable({
   providedIn: 'root',
