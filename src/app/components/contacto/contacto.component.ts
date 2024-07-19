@@ -53,7 +53,7 @@ preview(e:Event) {
                 mensaje:this.mensaje
               }
 
-   fetch("https://formsubmit.co/ajax/erosjejexd3@gmail.com", {
+   fetch("https://dynamic-luck-production.up.railway.app/https://formsubmit.co/ajax/erosjejexd3@gmail.com", {
 
     method: "POST",
     headers: { 
